@@ -1,15 +1,30 @@
-# Getting Started with Create React App
+# Welcome!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+#### I developed an Hulu Responsive web app clone using React + SASS to improve myself. 
 
-## Available Scripts
+## [Live Demo]('')
 
-In the project directory, you can run:
+#### Tools
 
-### `yarn start`
+- [React](https://reactjs.org/)
+- [SASS](https://sass-lang.com/)
+- [Axios](https://github.com/axios/axios)
+- [SVGR](https://react-svgr.com/)
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+#### First, Install deps
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+```bash
+$ npm install
+#or
+$ yarn install
+```
+
+#### In the project directory, run the development server::
+
+```bash
+$ npm start
+#or
+$ yarn start
+```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
